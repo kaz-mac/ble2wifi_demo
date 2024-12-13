@@ -10,5 +10,5 @@ https://akibabara.com/blog/tag/nrf52840
 | ble2wifi_client.ino | バッテリー電圧等のデータを、BLEのアドバタイズデータにのせて送信するプログラム | Seeed XIAO BLE nRF52840 |
 | ble2wifi_repeater.ino | アドバタイズを中継するプログラム | Seeed XIAO BLE nRF52840 |
 | ble2wifi_server.ino | 受信したBLEのアドバタイズデータを、WiFiでWebサーバーに送信し、SDカードに保存するプログラム | M5Stack Core2 |
-| bletest.php.ino | M5Stackから送信されたデータをCSVに格納するプログラム | Web Server |
+| bletest.php | M5Stackから送信されたデータをCSVに格納するプログラム | Web Server |
 
